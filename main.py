@@ -5,6 +5,7 @@ account_sid ='AC82adf5e7798ccb01f38cf440fdf17274'
 auth_token = "4de115328241d28ae7459db9f6a6d7db"
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
+PHONE_NUMBER = ""
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
@@ -96,7 +97,7 @@ for article in formatted_articles:
         messaging_service_sid='MG09718d77e02ecf560302a7e8a6c86247',
         body=article,
         from_='+14057844981',
-        to='+16048287821'
+        to='PHONE_NUMBER'
     )
 
     print(message.status)
