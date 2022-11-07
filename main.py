@@ -1,8 +1,8 @@
 import requests
 from twilio.rest import Client
 
-account_sid ='AC82adf5e7798ccb01f38cf440fdf17274'
-auth_token = "4de115328241d28ae7459db9f6a6d7db"
+account_sid =""
+auth_token = ""
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 PHONE_NUMBER = ""
