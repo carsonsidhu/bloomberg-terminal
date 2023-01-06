@@ -26,7 +26,6 @@ fluctuations over a given time period.
 
 
 ## Features
-List the ready features here:
 - Allows users to easily alter tickers they wish to follow, how often messages are sent, and the interval over which price fluctuations should 
 be measured
 - Messaging process is automated through PythonAnywhere
