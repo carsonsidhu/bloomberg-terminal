@@ -13,7 +13,6 @@ and recent news developments
 
 
 ## General Information
-- Provide general information about your project here.
 Following the stock market can be a tricky thing to do, especially for those who have not made it a part of their career. Staying on top of
 one's investments can take time, and it's easy to forget to check up on one's portfolio. This program is meant to assist in that process, by 
 sending a text message to users every day when markets open, providing recent news summaries for all tickers followed, as well as their price
