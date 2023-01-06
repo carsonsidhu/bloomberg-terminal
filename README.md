@@ -21,6 +21,8 @@ fluctuations over a given time period.
 
 ## Technologies Used
 - Python
+- Alpha Vantage API
+- News API
 - Twilio API
 - PythonAnywhere
 
